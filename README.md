@@ -1,7 +1,7 @@
 # ▣ Description ▣
 ## Current Project : Spec Reader
 ### Coding Languages rating:
-* C++ 1/5 ■▢▢▢▢
+* C++ 1.5/5 ■▣▢▢▢
 
 
 * C# 3.5/5 ■■■▣▢
