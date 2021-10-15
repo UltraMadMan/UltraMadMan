@@ -1,5 +1,5 @@
 # ▣ Description ▣
-## Current Project : Spec Reader
+## Current Project : Rustry
 ### Coding Languages rating:
 * C++ 1/5 ■▢▢▢▢
 
