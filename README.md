@@ -1,21 +1,21 @@
 # ▣ Description ▣
-## Current Project : Rustry
+## Current Project : BO1 Zombie Remake
 ### Coding Languages rating:
-* C++ 1/5 ■▢▢▢▢
+* C++ 2/5 ■■▢▢▢
 
 
-* C# 3/5 ■■■▢▢
+* C# 2.5/5 ■■▣▢▢
 
 
-* Python 3/5 ■■■▢▢
+* Python 2/5 ■■▢▢▢
 
 
 * GdNative 3/5 ■■■▢▢
 
 
-* Blueprint (Visual) 4/5 ■■■■▢
+* Blueprints (UE4 Visual Editor) 4/5 ■■■■▢
 
 
-* Lua 4.5/5 ■■■■▣
+* Lua 5/5 ■■■■■
 
 
