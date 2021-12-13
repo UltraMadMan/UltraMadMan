@@ -1,13 +1,13 @@
 # ▣ Description ▣
-## Current Project : BO1 Zombie Remake
+## Current Project : Test prototype Projects
 ### Coding Languages rating:
-* C++ 2/5 ■■▢▢▢
+* C++ 3/5 ■■■▢▢
 
 
 * C# 2.5/5 ■■▣▢▢
 
 
-* Python 2/5 ■■▢▢▢
+* Python 5/5 ■■■■■
 
 
 * GdNative 3/5 ■■■▢▢
