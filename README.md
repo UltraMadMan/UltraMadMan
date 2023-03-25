@@ -1,5 +1,5 @@
 # ▣ Description ▣
-## Current Project : Test prototype Projects
+## Current Project : JS & CSS Projects
 ### Coding Languages rating:
 * C++ 2/5 ■■▢▢▢
 
@@ -19,3 +19,7 @@
 * Lua 5/5 ■■■■
 
 
+* JavaScript 2.5/5 ■■▣▢▢
+
+
+* CSS 3/5 ■■■▢▢
