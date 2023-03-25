@@ -13,7 +13,7 @@
 * GdNative 3/5 ■■■▢▢
 
 
-* Blueprints (UE4 Visual Editor) 4/5 ■■■▢
+* Blueprints (UE4 Visual Editor) 4/5 ■■■■▢
 
 
 * Lua 5/5 ■■■■■
