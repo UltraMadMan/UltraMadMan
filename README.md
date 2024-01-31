@@ -1,5 +1,6 @@
-# Description:
+# About Me
 ## What I am currently doing: C++ programming & game development
+## What I am doing instead: Playing games for fun
 ### My coding language skills:
 * C++ 3/5 ■■■▢▢
 
